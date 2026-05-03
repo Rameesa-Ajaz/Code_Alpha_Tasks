@@ -114,7 +114,3 @@ python scripts/task_3_data_visualization.py
 
 ---
 
-## 👤 Author
-
-**Code Alpha Data Science Internship**
-*Task 2 & Task 3 — AI Job Market Analysis*
